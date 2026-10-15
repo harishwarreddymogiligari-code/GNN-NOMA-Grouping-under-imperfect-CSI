@@ -1,0 +1,5 @@
+group,precision,recall,f1_score,support
+Group 1,0.8955,0.908,0.9017,500
+Group 2,0.7538,0.594,0.6644,500
+Group 3,0.626,0.656,0.6406,500
+Group 4,0.753,0.866,0.8056,500
